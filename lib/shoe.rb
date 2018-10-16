@@ -18,4 +18,4 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 end
-adidas = Shoe.brand("adidas")
+adidas = Shoe.new("adidas")
